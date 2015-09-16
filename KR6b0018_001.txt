@@ -1,21 +1,20 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:33:56.160039
+#+DATE: 2015-08-30 19:33:57.492110
 #+TITLE: 月光菩薩經
 #+PROPERTY: CBETA_ID T03n0166
 #+PROPERTY: ID KR6b0018
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 3, No. 166
 #+PROPERTY: VOL 03
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T
 #+PROPERTY: LASTPB <pb:KR6b0018_T_000-0406b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6b0018_T_001-0406b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
 ¶
-No.166[No.153(5)]¶
-
- 佛說月光菩薩經¶
+No. 166 [No. 153(5)]¶
+佛說月光菩薩經¶
 ¶
 西天譯經三藏朝散大夫試鴻臚少卿
 <pb:KR6b0018_T_001-0406c>¶
@@ -43,7 +42,7 @@ No.166[No.153(5)]¶
 之處，不假燈燭日月之明，故號月光。統領¶
 四洲六萬八千國土。時世豐熟，人民安隱，¶
 金銀珍寶，飲食衣服，象馬車乘，悉皆盈滿。¶
-於城四門，皆有樓閣，戶牖軒窗，俱用眾寶¶
+於城四門，皆有樓閣，戶牖軒[窗/心]，俱用眾寶¶
 而為嚴飾；街巷道陌，掃灑清淨，竪立幢幡¶
 寶蓋，真珠瓔珞。復有沈香、粖香、栴檀之香，微¶
 風時起，吹其香氣，周徧國城，車馬行人，不¶

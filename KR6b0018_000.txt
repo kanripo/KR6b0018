@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 月光菩薩經
+#+DATE: 2015-08-30 19:33:56.343379
+#+PROPERTY: JUAN 0
